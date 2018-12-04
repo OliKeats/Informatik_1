@@ -1,1 +1,1 @@
-$null 
+print("Hello Mr. A") 
