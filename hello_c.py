@@ -1,2 +1,1 @@
-ECHO ist eingeschaltet (ON).
-print("Hello c") 
+print("Hello C") 
